@@ -4,7 +4,7 @@ description: Official wiki for ViVi
 repository: https://github.com/ViVi-Game/ViVi-Wiki
 domain: vivi-game.github.io
 url: https://vivi-game.github.io
-baseurl: /
+baseurl: /ViVi-Wiki/
 
 # Structure
 source: .
