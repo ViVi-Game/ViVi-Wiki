@@ -1,0 +1,13 @@
+// *.woff2 support: Chrome 26+, Opera 23+, FireFox 3.6
+// *.woff support: Chrome 6+, Firefox 3.6+, IE9+, Safari 5.1+
+
+// Vollkorn Regular
+@font-face {
+  font-family: "Vollkorn";
+  font-style: normal;
+  font-weight: 400;
+  src: local("Vollkorn Regular"), local("Vollkorn-Regular"),
+  url("../fonts/vollkorn_regular.woff2") format("woff2"),
+  url("../fonts/vollkorn_regular.woff") format("woff");
+  font-display: swap;
+}
