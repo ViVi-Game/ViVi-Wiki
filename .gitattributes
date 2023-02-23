@@ -1,0 +1,10 @@
+* text eol=lf
+
+*.html text
+*.md text
+*.scss text
+*.yml text
+
+*.ico binary
+*.woff binary
+*.woff2 binary
